@@ -1,0 +1,3 @@
+Both tests pass, greet.js untouched.
+
+COMMIT: feat(core): add farewell() function
